@@ -13,3 +13,7 @@ https://github.com/xiaoxuan6/free-vip-video
 解析1：http://jx.jsonplayer.com/player/?url=  
 解析2：http://bd.jx.cn/?url=
 
+### 播放器
+https://www.jsonplayer.com/
+
+
