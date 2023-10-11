@@ -29,3 +29,6 @@ https://cupfox.app/<br/>
 https://jubt.fun/cn/index.html<br/>
 
 https://ddys.pro/ <br/>
+
+从这里找片源：① https://extranet.torrentbay.net ② https://tgx.sb/torrents.php ③ http://pianyuan.org <br/>
+从这里找字幕：①https://subhd.tv/ ② http://zimuku.org/
